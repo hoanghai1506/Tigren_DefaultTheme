@@ -23,8 +23,8 @@
                             <block class="Magento\Framework\View\Element\Template" name="checkout.cart.summary.title"
                                    before="-" template="Magento_Theme::text.phtml">
                                 <arguments>
-                                    <argument translate="true" name="text" xsi:type="string">Hey boss this title is
-                                        pretty cool :^ )
+                                    <argument translate="true" name="text" xsi:type="string">  ＼(^_^)／ Here is the change
+
                                     </argument>
                                     <argument name="tag" xsi:type="string">strong</argument>
                                     <argument name="css_class" xsi:type="string">summary title cm-custom</argument>
