@@ -11,6 +11,6 @@
 define([], function() {
     return function(config, element) {
         // Implementation, as part of a new AMD module
-        alert('test change');
+        console.log(config, element);
     }
 });
